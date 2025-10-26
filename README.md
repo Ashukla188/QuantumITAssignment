@@ -5,7 +5,7 @@ A complete full-stack **Login & Registration system** built using **React.js**, 
 ---
 
 ## 🌐 Live Demo  
-🔗 **Live Link:** [Click Here](YOUR_LIVE_LINK_HERE)
+🔗 **Live Link:** [Click Here](https://quantumitassignment-frontend.onrender.com)
 
 ---
 
@@ -69,7 +69,7 @@ VITE_API_BASE_URL=https://quantum-backend.onrender.com/api
 ## 💻 Installation & Setup (Local)
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/Quantum_Assignment.git  
+git clone https://github.com/<Ashukla188>/Quantum_Assignment.git  
 cd Quantum_Assignment
 
 ### 2️⃣ Backend Setup
@@ -87,8 +87,8 @@ npm run dev
 ---
 
 ## 🚀 Deployment (Render)
-- **Backend (Web Service)** → https://quantum-backend.onrender.com  
-- **Frontend (Static Site)** → https://quantum-frontend.onrender.com  
+- **Backend (Web Service)** → https://quantumitassignment.onrender.com/api
+- **Frontend (Static Site)** → https://quantumitassignment-frontend.onrender.com
 - **Database** → MongoDB Atlas (Cloud)
 
 ---
@@ -130,19 +130,16 @@ npm run dev
 - Passwords are hashed using bcrypt before saving.  
 - JWT tokens are used for authentication.  
 - Sensitive data (like DB URI & JWT Secret) is stored in .env.  
-- Passwords are only returned in API responses for **demo purposes** (as per assignment instructions).
+- Passwords are only returned in API responses for **demo purposes**.
 
 ---
 
 ## 👨‍💻 Developer
 **Ayush Shukla**  
-🔗 GitHub: https://github.com/<your-username>  
-📧 ayush@example.com  
 
 ---
 
 ## 🏁 Summary
-✔️ Completed as per assignment document  
 ✔️ Frontend & backend hosted on Render  
 ✔️ JWT-based authentication with protected dashboard  
-✔️ Fully responsive & interactive UI built using Tailwind only
+✔️ Fully responsive & interactive UI built using Tailwind 
