@@ -134,17 +134,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots (Add later)
-You can include screenshots of your UI here.
-
-| Page | Screenshot |
-|------|-------------|
-| Login | ![Login](assets/login.png) |
-| Register | ![Register](assets/register.png) |
-| Dashboard | ![Dashboard](assets/dashboard.png) |
-
----
-
 ## 👨‍💻 Developer
 **Ayush Shukla**  
 🔗 GitHub: https://github.com/<your-username>  
